@@ -18,6 +18,7 @@ Technologies Used:
 
 This will run the app in the development mode.
 -Open [(https://notes-app-demo01.netlify.app/)] to view it in the browser (deployed Netlifiy).
+-live demo ["https://drive.google.com/file/d/11sFbYMkAMSxx0TU-P3X1xiudXmRuMjQK/view?usp=sharing"] - (Google drive)
 
 Usage:
 
