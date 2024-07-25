@@ -42,7 +42,7 @@ const App = () => {
       note.content.toLowerCase().includes(searchQuery)
   );
 
-  const notesPerPage = 5;
+  const notesPerPage = 10;
   const startIndex = (currentPage - 1) * notesPerPage;
   const currentNotes = filteredNotes.slice(startIndex, startIndex + notesPerPage);
 
