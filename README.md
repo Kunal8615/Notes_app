@@ -3,7 +3,7 @@
 -This project is a simplified web application for taking notes, utilizing local storage for data persistence. It demonstrates front-end development skills including CRUD operations, pagination, responsive design, and searching through notes.
 
 Features:
-
+ 
 -CRUD Operations: Create, Read, Update, Delete notes.
 -Pagination: Display 10 notes per page.
 -Search: Filter notes by title or content.
